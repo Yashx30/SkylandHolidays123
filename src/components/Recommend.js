@@ -1,4 +1,4 @@
-import React,{useState} from 'react'
+// import React,{useState} from 'react'
 // import { useState } from 'react/cjs/react.production.min'
 import styled from 'styled-components'
 import Destination1 from '../images/himachal1.jpg'
@@ -57,14 +57,14 @@ export default function Recommend() {
     },
   ];
 
-  const packages = [
-    "The Weekend Break",
-    "The Package Holiday",
-    "The Group Tour",
-    "Long Term Slow Travel",
-  ];
+  // const packages = [
+  //   "The Weekend Break",
+  //   "The Package Holiday",
+  //   "The Group Tour",
+  //   "Long Term Slow Travel",
+  // ];
 
-  const [active, setActive] = useState(1);
+  // const [active, setActive] = useState(1);
   return (
     <Section id="recommend">
        <div className="title">

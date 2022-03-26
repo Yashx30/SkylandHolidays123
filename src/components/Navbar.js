@@ -1,8 +1,8 @@
 import React from 'react'
 import styled from 'styled-components'
 import logo from '../images/sky2.ico'
-import { FaPhone } from "react-icons/fa";
-import { FaEnvelope } from "react-icons/fa";
+// import { FaPhone } from "react-icons/fa";
+// import { FaEnvelope } from "react-icons/fa";
 export default function Navbar() {
   return (
     <>

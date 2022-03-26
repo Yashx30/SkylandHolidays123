@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import avatarImage from '../images/avatarImage.jpeg'
+// import avatarImage from '../images/avatarImage.jpeg'
 import avatar1 from "../images/avatar1.png"
 import justinimg from "../images/justin.jpg"
 import girlimg from "../images/girl.jpg"
